@@ -1,0 +1,153 @@
+body{
+	border:auto;
+	margin:auto;
+	padding:auto;
+}
+.header{
+	border-style:double-ridge;
+	margin:auto;
+	height:150px;
+	width:auto;
+	background-color:blue;
+}
+.welcome{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:300px;
+	margin-top:-120px;
+	height:80px;
+	width:800px;
+	background-color:yellow;
+}
+.logo{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:40px;
+	margin-top:-90px;
+	height:100px;
+	width:100px;
+	background-color:white;
+}
+.menulink{
+border-style:double-ridge;
+margin:auto;
+margin-top:30px;
+height:50px;
+width:auto;
+background-color:black;
+}
+.mainbody{
+	border-style:double-ridge;
+	margin:auto;
+	height:400px;
+    width:auto;
+    background-color:lightgrey;
+}
+.nextmainbody{
+	border-style:double-ridge;
+	margin:auto;
+	height:400px;
+	width:auto;
+}
+.box1{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:30px;
+	margin-top:-300px; 
+    height:250px;
+    width:350px;
+    background-color:orange;
+}
+.box2{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:500px;
+	margin-top:-250px; 
+    height:250px;
+    width:350px;
+    background-color:red;
+}
+.box3{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:950px;
+	margin-top:-250px; 
+    height:250px;
+    width:350px;
+    background-color:green;
+}
+.leftbody{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:0px;
+	margin-top:49px;
+	height:400px;
+	width:685px;
+	background-color:brown;
+}
+.rightbody{
+	border-style:double-ridge;
+	margin:auto;
+	margin-right:0px;
+	margin-top:-400px;
+	height:400px;
+	width:685px;
+	background-color:lightblue;
+}
+.anotherbody{
+	border-style:double-ridge;
+	margin:auto;
+	height:400px;
+	width:auto;
+	background-color:black;
+}
+.anotherbox{
+   border-style:double-ridge;
+   margin:auto;
+   margin-top:-300px;
+   height:250px;
+   width: 400px;
+   background-color:pink;
+}
+.readmore{
+	border-style:double-ridge;
+	margin:auto;
+	margin-top:-150px;
+	height:50px;
+	width: 200px;
+	background-color:green;
+}
+.section1{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:0px;
+	margin-top:150px;
+	height:600px;
+	width:456px;
+	background-color:teal;
+}
+.section2{
+	border-style:double-ridge;
+	margin:auto;
+	margin-left:455px;
+	margin-top:-600px;
+	height:600px;
+	width:456px;
+	background-color:cyan;
+}
+.section3{
+	border-style:double-ridge;
+	margin:auto;
+	margin-right:0px;
+	margin-top:-600px;
+	height:600px;
+	width:456px;
+	background-color:indigo;
+}
+.footer{
+	border-style:double-ridge;
+	margin:auto;
+	height:600px;
+	width:auto;
+	background-color:blue;
+}
